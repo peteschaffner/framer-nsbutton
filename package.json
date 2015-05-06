@@ -1,0 +1,26 @@
+{
+  "name": "framer-nsbutton",
+  "version": "0.0.1",
+  "description": "NSButton module for Framer.js",
+  "main": "index.js",
+  "dependencies": {
+    "framer-label": "peteschaffner/framer-label"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peteschaffner/framer-nsbutton.git"
+  },
+  "keywords": [
+    "prototyping",
+    "framerjs"
+  ],
+  "author": "pjschaffner@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peteschaffner/framer-nsbutton/issues"
+  },
+  "homepage": "https://github.com/peteschaffner/framer-nsbutton",
+  "browserify": {
+    "transform": ["babelify"]
+  }
+}
